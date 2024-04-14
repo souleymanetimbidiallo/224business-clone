@@ -1,0 +1,23 @@
+.art_body{
+  width: 1230px;
+  margin-top: 5%;
+}
+.art_body1{
+  backgrouund-color: #424558;
+  width: 55%;
+  margin-left: 10%;
+  margin-right: 5%;
+  height: 1100px;
+  float: left;
+}
+.art_body2{
+  width: 30%;
+  height: 1100px;
+  float: left;
+}
+img{
+  margin-bottom: 10%;
+}
+.chemin{
+  margin-left: 11%;
+}
